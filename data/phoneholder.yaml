@@ -1,0 +1,11 @@
+# dataset path
+path: /Users/zhaozhipeng/Documents/code/yolo/projects/pholderv11/data
+train: images/train
+val: images/val
+test: images/test
+
+# number of classes
+nc: 1
+
+# class names
+names: ["phone holder"]
